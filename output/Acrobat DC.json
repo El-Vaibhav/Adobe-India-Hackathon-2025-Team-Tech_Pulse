@@ -1,0 +1,240 @@
+{
+  "title": "What's new in Acrobat DC",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Chapter 1: Introduction to Acrobat",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What's new in Acrobat DC",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Star your important files and access them across devices",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Simplified 1-click compress PDF experience",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Compress multiple PDFs at once",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Simplified protect PDF experience",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Create a form from scratch",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Unified edit text and form fields experience",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "New simplified Fill & Sign interface",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Color customization of Fill & Sign tools",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Attach a link of your filled form to an email and share",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Easily create forms that require multiple signers",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Unified view and review experience in Home view",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Simplified 1-click access to share files",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Multi-file sharing option discontinued",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Start a review using @mention in personal commenting",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Support for macOS 10.15 Catalina",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat and OneDrive business integration update",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "New in-app onboarding experience for Acrobat Reader DC",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Other enhancements",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Hide heads-up-display (HUD) tools from the toolbar",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Create PDFs with Acrobat",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Convert a file to PDF using Acrobat menu commands",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Drag-and-drop to create PDFs",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Convert clipboard content to PDF",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Create a blank PDF",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Create multiple PDFs from multiple files (Acrobat Pro)",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat DC manual (PDF)",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Rotate, move, delete, and renumber PDF pages",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "How to rotate pages in a PDF",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "How to extract pages from a PDF",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "How to split PDFs into multiple documents",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "How to move or copy pages in a PDF",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "How to delete or replace pages in a PDF",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "How to renumber pages in a PDF",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Edit text in PDFs",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "PDF",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Edit text in a PDF",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Format text in a PDF",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Add or edit a numbered or bulleted list",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Add new text to a PDF",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Move, rotate, or resize a text box",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "PDF to Word – How to convert PDF to Word",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Add, edit, or move text on noninteractive forms or when signing",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "How to convert PDF to Word:",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "PDF to JPG– How to convert PDF to JPG",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "How to convert PDF to JPG:",
+      "page": 34
+    }
+  ]
+}
