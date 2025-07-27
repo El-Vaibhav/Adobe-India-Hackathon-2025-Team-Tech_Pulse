@@ -96,6 +96,7 @@ docker build --platform linux/amd64 -t none team_tech_pulse_solution_1:69 .
 ### Running the Container
 
 ```bash
+cd Round 1A Understand Your Document
 docker run --rm -v ${PWD}/input:/app/input -v ${PWD}/output:/app/output --network none team_tech_pulse_solution_1:69
 ```
 
