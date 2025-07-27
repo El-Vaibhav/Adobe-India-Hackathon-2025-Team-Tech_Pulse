@@ -1,13 +1,13 @@
 # Adobe India Hackathon 2025 – Challenge 1A
 
-# #📄 PDF Structured Outline Extraction – Heading Detection Pipeline
+## 📄 PDF Structured Outline Extraction – Heading Detection Pipeline
 
-# # #🚀 Overview
+###🚀 Overview
 This solution is designed to process PDF files and extract structured outlines by detecting headings (H1, H2, H3). It handles a variety of PDF layouts using font analysis, text pattern detection, and efficient resource utilization. The result is saved in a validated JSON format adhering to the challenge's schema.
 
-# # # 🧩 Approach Summary
+###🧩 Approach Summary
 
-# # PDF Parsing
+##PDF Parsing
 
 We use PyMuPDF to read and analyze the structure of PDF documents, extracting text, font sizes, font styles (bold/italic), and metadata.
 
