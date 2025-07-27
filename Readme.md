@@ -90,7 +90,7 @@ No external ML models are used; the solution is rule-based for reliability and s
 ### Building the Image
 
 ```bash
-docker build --platform linux/amd64 -t none team_tech_pulse_solution_1:69 .
+docker build --platform linux/amd64 -t team_tech_pulse_solution_1:69 .
 ```
 
 ### Running the Container
