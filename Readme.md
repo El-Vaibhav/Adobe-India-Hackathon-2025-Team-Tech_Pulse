@@ -2,16 +2,16 @@
 
 ## 📄 PDF Structured Outline Extraction – Heading Detection Pipeline
 
-###🚀 Overview
+### 🚀 Overview
 This solution is designed to process PDF files and extract structured outlines by detecting headings (H1, H2, H3). It handles a variety of PDF layouts using font analysis, text pattern detection, and efficient resource utilization. The result is saved in a validated JSON format adhering to the challenge's schema.
 
-###🧩 Approach Summary
+### 🧩 Approach Summary
 
-##PDF Parsing
+## PDF Parsing
 
 We use PyMuPDF to read and analyze the structure of PDF documents, extracting text, font sizes, font styles (bold/italic), and metadata.
 
-# # Heading Detection Logic
+## Heading Detection Logic
 
 Headings are identified based on a combination of:
 
@@ -23,13 +23,13 @@ Content Patterns – Regex rules detect numbering (1., 1.1., A., etc.), Title Ca
 
 Contextual Heuristics – Headings are usually short, not stop-word-heavy, and avoid sentence punctuation.
 
-# # Schema Validation
+## Schema Validation
 
 The extracted title and heading outline are validated using jsonschema against the Challenge 1A official schema.
 
 Warnings or errors are reported if schema violations are detected.
 
-# # Performance Optimization
+## Performance Optimization
 
 Optimized processing ensures low memory usage and fast execution using efficient loops and font caching.
 
@@ -48,7 +48,7 @@ Resource monitoring tracks CPU time and memory, validating compliance with hacka
 }
 
 ```
-# # # 📦 Project Structure and Code Roles
+### 📦 Project Structure and Code Roles
 | **File**                 | **Purpose**                                                                                  |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
 | `main.py`                | Main entry point – orchestrates the entire pipeline, monitors performance, and saves output. |
@@ -58,7 +58,7 @@ Resource monitoring tracks CPU time and memory, validating compliance with hacka
 | `src/validate_schema.py`     | Validates JSON output using official schema; reports warnings and tips.                      |
 
 
-# # # 📚 Models and Libraries Used
+### 📚 Models and Libraries Used
 | **Library**      | **Purpose**                                           |
 | ---------------- | ----------------------------------------------------- |
 | `PyMuPDF (fitz)` | PDF text extraction with font/style metadata          |
